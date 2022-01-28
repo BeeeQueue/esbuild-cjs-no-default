@@ -1,3 +1,3 @@
 import core from "@actions/core"
 
-core.error("this doesn't work")
+core.info("this doesn't work")
